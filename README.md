@@ -1,14 +1,4 @@
 # Nylas webhooks interview problem
 
-https://nylas-webhooks-project.herokuapp.com/
-
-## Running it locally
-
-```
-$ git clone git://github.com/scottmotte/sinatra-heroku-cedar-template.git
-$ gem install bundler
-$ bundle
-$ bundle exec foreman start
-```
-
-Navigate to localhost:5000 | 5100
+The goal of this interview is to build a very basic webhook system to POST JSON to https://nylas-webhooks-project.herokuapp.com/.
+To do that, we'll need to extend the code in `webhooks_skeleton.py`.

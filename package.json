@@ -1,0 +1,23 @@
+{
+  "name": "webhooks-project",
+  "version": "1.0.0",
+  "description": "Nylas webhooks interview problem",
+  "main": "webhooks_skeleton.js",
+  "dependencies": {
+    "sqlite3": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nylas/webhooks-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nylas/webhooks-project/issues"
+  },
+  "homepage": "https://github.com/nylas/webhooks-project#readme"
+}
